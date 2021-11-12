@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Chumbinho1.
+- 👀 I'm interested in creating projects to improve my skills.
+- 🌱 I’m currently learning HTML, CSS, Javascript and NodeJS. 

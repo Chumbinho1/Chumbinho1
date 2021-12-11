@@ -2,7 +2,7 @@
 
 <div>
   
-  **About me**
+  🙂 **About me**
   
   <ul>
     <li> ❤️ I love programming</li>
@@ -14,14 +14,21 @@
 ##
 
 <div align="center">
+
+  🚀 **My activities**
+
   <a href="https://github.com/Chumbinho1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chumbinho1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chumbinho1&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chumbinho1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chumbinho1&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
+
+##
   
-<br>
+<div style="display: inline_block" align="center">  
   
-<div style="display: inline_block" align="center">
+  🤓 **My Skils**
+  
   <img align="center" alt="Chumbinho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Chumbinho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Chumbinho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,8 +38,11 @@
 </div>
   
 ##
-  
+
 <div align="center">
+  
+  💬 **Contact me**
+  
   <a href = "mailto:vitorpereira041019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/vitor-pereira-chumbinho"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "https://www.linkedin.com/in/vitor-pereira-chumbinho"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
